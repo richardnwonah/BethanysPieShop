@@ -1,30 +1,32 @@
 # BethanysPieShop
 
-Pie Online store Created with Asp.Net Core 6.1
+Pie Online store created with Asp.Net Core 6.1
 
+## Project Documentation
+see documentation [here](Doc/BethanysPieShopDocx.docx)
 
-## See Photos
+## Screenshotss
 
 ![Home Screen](Img/home.png)
   ### Home Screen
 
-  ![Home Screen](Img/login.png)
+  ![Login Screen](Img/login.png)
   ### login Screen
 
-  ![Home Screen](Img/AllPies.png)
-  ### login Screen
+  ![AllPies Screen](Img/AllPies.png)
+  ### AllPies Screen
 
-  ![Home Screen](Img/Checkout.png)
-  ### login Screen
+  ![Checkout Screen](Img/Checkout.png)
+  ### Checkout Screen
 
-  ![Home Screen](Img/cheesecake.png)
-  ### login Screen
+  ![Cheesecake Screen](Img/cheesecake.png)
+  ### Cheesecake Screen
 
-  ![Home Screen](Img/Register.png)
-  ### login Screen
+  ![Register Screen](Img/Register.png)
+  ### Register Screen
 
-  ![Home Screen](Img/ShoppingCart.png)
-  ### login Screen
+  ![ShoppingCart Screen](Img/ShoppingCart.png)
+  ### ShoppingCart Screen
 
   
   
