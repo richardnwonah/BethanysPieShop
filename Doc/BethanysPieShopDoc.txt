@@ -1,0 +1,16 @@
+Project Documentation
+
+About
+This project is an e-commerce website for selling pies.
+It comprises of cart, authentication and authorization, security and CRUD operations on PieEntities
+
+Build
+Asp.Net Core web application with the MVC design pattern .
+To run the project, install dotnet core 6.1, ef core 6.1,
+Navigate to the src/BethanysPieShop
+
+run "dotnet ef database update" to update database
+run "dotnet build" to build project
+run "dotnet watch run" to run the project
+
+
