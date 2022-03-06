@@ -5,7 +5,7 @@ Pie Online store created with Asp.Net Core 6.1
 ## Project Documentation
 see documentation [here](Doc/BethanysPieShopDoc.txt)
 
-## Screenshotss
+## Screenshots
 
 ![Home Screen](Img/home.png)
   ### Home Screen
